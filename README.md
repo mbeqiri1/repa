@@ -1,4 +1,4 @@
-**Title: My First GitHub Test Repository**
+**My GitHub Test Repository**
 
 **Introduction:**
 Welcome to my GitHub test repository! This is a space where I'm getting hands-on experience with the exciting world of version control and collaborative coding. Feel free to explore, provide feedback, and follow along on my coding journey.
